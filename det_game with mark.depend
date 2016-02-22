@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413356877 source:d:\project\det_game with mark\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+
